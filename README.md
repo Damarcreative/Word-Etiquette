@@ -8,7 +8,7 @@ To run this program, you need Python 3 and some of the required libraries, namel
 
 You can install the discord.py library using pip:
 ```sh
-pip install discord.py
+pip install discord
 ```
 ## How to use
 - Create a bot on the Discord developer page and earn your bot tokens.
