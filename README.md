@@ -24,8 +24,6 @@ In this program, the event used is `on_message` to handle messages received by b
 If the message contains sensitive words, the program will delete the message and notify the message sender that the message has been deleted.
 ## Contribution
 If you'd like to contribute to the program, feel free to submit a pull request or create a new issue on the GitHub repository.
-## Lisensi
-This program uses the MIT license. Please read the LICENSE file for more information.
 ## Contact
 If you have any questions or concerns regarding this program, please contact us via [email](mailto:dev@damarcreative.my.id).
 
