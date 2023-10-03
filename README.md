@@ -1,6 +1,6 @@
-# Discord chat censorship
+# Word Etiquette Bot
 ## Description
-Censorship Bot for Discord is a Python program that aims to filter messages containing sensitive words on Discord servers. This program uses the discord.py library to interact with the Discord API and filter messages received by bots.
+Word Etiquette Bot for Discord is a Python program that aims to filter messages containing sensitive words on Discord servers. This program uses the discord.py library to interact with the Discord API and filter messages received by bots.
 
 ## Installation
 To run this program, you need Python 3 and some of the required libraries, namely:
